@@ -1,0 +1,147 @@
+.titulo{
+    text-align: center;
+    font-size: x-large;
+}
+
+#Imagen{
+    position: relative;
+    left: 400px;
+    width: 1000px;
+    height: 350px;
+}
+.autores{
+    text-align: center;
+    font-size: x-large;
+}
+
+.universidades{
+    text-align: center;
+    font-size: large;
+    color: #A9A9A9;
+}
+
+#Indice h1{
+    color: white;
+    background-color: limegreen;
+    border-color: black;
+    border-style: solid;
+}
+
+#Indice ol{
+    font-size: xx-large;
+    text-align: left;
+}
+
+#Indice #Bibliografia{
+    font-size: xx-large;
+}
+
+#Introduccion h1{
+    background-color: orangered;
+    border-style: solid;
+    border-color: black;
+    color: white;
+}
+
+#Introduccion ul{
+    list-style-type: square;
+    font-size: xx-large;
+}
+
+
+#Propuesta img{
+    top: 1950px;
+    position: absolute;
+    right: 950px;
+    height: 800px;
+    
+
+}
+#Propuesta h1{
+    font-size: xx-large;
+    background-color: #4C4CFF ;
+    border-color: black;
+    border-style: solid;
+    color: white;
+}
+
+#Propuesta p{
+    font-size: xx-large;
+    position: absolute;
+    text-align: right justify;
+    left: 300px;
+    line-height: 40pt;
+}
+
+#Nociones h1{
+    border: 5px;
+    color: #3e3ebd;
+    border-style: solid;
+    border-color: #4C4CFF;
+}
+
+#Nociones ul{
+    list-style: square;
+}
+#Nociones li{
+    font-size: xx-large;
+}
+
+#TikTok h1{
+    border-style: solid;
+    border-color: #4C4CFF;
+    color: #3e3ebd;
+}
+
+#TikTok #First{
+    list-style: square;
+    font-size: xx-large;
+}
+
+#TikTok #Second{
+    list-style: circle;
+    font-size: xx-large;
+}
+
+
+#Conclusiones h1{
+    color: white;
+    background-color: #FF00A9;
+    border-style: solid;
+    border-color: black;
+}
+
+#Conclusiones p{
+
+    text-align: justify;
+    font-size: xx-large;
+    line-height: 40pt;
+}
+
+#Bibliografia ul{
+    font-size: x-large;
+}
+
+#Bibliografia h1{
+    border-style: solid;
+    background-color: purple;
+    color: white;
+}
+
+#Despedida h1{
+    text-align: right;
+    color: white;
+    border-style: solid;
+    background-color: #4C4CFF;
+    border-color: black;
+
+    
+
+}
+
+#Despedida p{
+
+    border-style: solid;
+    border-color: #2e2e9c;
+    font-size: x-large;
+}
